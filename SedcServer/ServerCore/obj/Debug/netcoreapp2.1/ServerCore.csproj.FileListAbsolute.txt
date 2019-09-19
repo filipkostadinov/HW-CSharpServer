@@ -1,0 +1,12 @@
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.deps.json
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csprojAssemblyReference.cache
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfoInputs.cache
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfo.cs
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csproj.CopyComplete
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.pdb

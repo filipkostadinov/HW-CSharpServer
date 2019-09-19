@@ -1,0 +1,16 @@
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.deps.json
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.runtimeconfig.json
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.runtimeconfig.dev.json
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.dll
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.pdb
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csprojAssemblyReference.cache
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csproj.CoreCompileInputs.cache
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.AssemblyInfoInputs.cache
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.AssemblyInfo.cs
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csproj.CopyComplete
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.dll
+C:\Users\Filip Kostadinov\Desktop\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.pdb

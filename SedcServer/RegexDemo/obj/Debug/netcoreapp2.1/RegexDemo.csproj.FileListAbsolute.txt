@@ -1,0 +1,12 @@
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\regex-01.txt
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\RegexDemo.deps.json
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\RegexDemo.runtimeconfig.json
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\RegexDemo.runtimeconfig.dev.json
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\RegexDemo.dll
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\bin\Debug\netcoreapp2.1\RegexDemo.pdb
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.csprojAssemblyReference.cache
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.csproj.CoreCompileInputs.cache
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.AssemblyInfoInputs.cache
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.AssemblyInfo.cs
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.dll
+C:\Users\Filip Kostadinov\Desktop\SedcServer\RegexDemo\obj\Debug\netcoreapp2.1\RegexDemo.pdb
